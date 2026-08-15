@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://law-communication-library.vercel.app/sitemap.xml
